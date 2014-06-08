@@ -48,7 +48,7 @@ This would make the photo thumbnail table view appear much faster.
 
 ## License
 
-Copyright (C) <2014> <Dominik Butz>
+Copyright (C) 2014 Dominik Butz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation 
 files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, 
