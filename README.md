@@ -1,3 +1,5 @@
+-- not actively maintained by creator any more. feel free to fork it in order to update the code to the latest Synology API documentation -- 
+
 SynoClub
 ========
 
@@ -31,14 +33,9 @@ location separately from the key files!
 ## Further development
 
 This app is put under MIT license (see below). **Please feel free to use this app as inspiration or basis
-for your own apps. There is a shortage of applications (at least for iOS) that allow users to use 
-their own server as backend instead of relying on "big data servers" like Amazon's (Dropbox), Google's, Apple's or even
-Facebook's (Parse).**
-Synology's DS as easy-to-use home or company server is a great basis for a more secure way of handling confidential data
-without renouncing the benefits of mobile applications and cloud computing. 
+for your own apps. **
 
-The app in its current state isn't suitable for uploading it to the app store. Please feel free to modify and extend its
-functionality. For example, the app does neither save note files nor photos locally (e.g. in the app's document or temp folder). 
+Please feel free to modify and extend its functionality. For example, the app does neither save note files nor photos locally (e.g. in the app's document or temp folder). 
 This would make the photo thumbnail table view appear much faster. 
 
 
